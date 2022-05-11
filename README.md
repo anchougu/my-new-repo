@@ -1,2 +1,2 @@
-# my-new-repo
+# GroceryShopping
 connection vs code to github
